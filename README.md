@@ -5,6 +5,8 @@ Custom Category Attributes for bands
 
 Create custom category attributes that can be used for a band or brand. Requires a sku naming convention that can associate a sku to the category by sku prefix. 
 
+Also Note that it creates a new attribute group name "Band Info". 
+
 Attributes include:
 
 Band Sku: ties it all together. 
